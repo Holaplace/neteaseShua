@@ -15,7 +15,7 @@
 
 neteaseShua: Upgrade Your Netease Cloud Music Quickly. 
 
-You can submit "issues" to help me improve this project.
+This project also provide Linux version script. You can submit "issues" to help me improve this project.
 
 Thanks in advance.
 
