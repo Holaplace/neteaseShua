@@ -1,5 +1,4 @@
 # <p align="center">neteaseShua</p>
-Upgrade Your Netease Cloud Music Quickly.
 
 <p align="center">
       <a href="https://github.com/Holaplace/neteaseShua"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -14,13 +13,13 @@ Upgrade Your Netease Cloud Music Quickly.
 
 ## :building_construction: Introduction
 
-pyMYO: Online Data Collector from Myo-armband on Real Time. 
+neteaseShua: Upgrade Your Netease Cloud Music Quickly. 
 
-This project has been released 5 versions. You can submit "issues" to improve this project.
+You can submit "issues" to help me improve this project.
 
 Thanks in advance.
 
 Designed By @[Holaplace](https://github.com/Holaplace)
 <br />
 
-<img src="https://github.com/Holaplace/pyMyo/blob/master/pyMyo.png">
+<img src="https://github.com/Holaplace/neteaseShua/blob/master/neteaseShua.png">
